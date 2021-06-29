@@ -14,5 +14,5 @@
 9. now run `sudo sensors-detect` and press enter everytime
 10. `sensors` and `zenmonitor` now should show actual temps and voltage
 * * *
-### To fix noisy cpu fan and random type freezes:
+#### To fix noisy cpu fan and random type freezes:
 1. Turn off Core Performance Boost in BIOS
