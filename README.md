@@ -13,3 +13,6 @@
 8. now run `sudo modprobe it87 force_id=0x8686` or `sudo modprobe it87 force_id=0x8628` ([8628](https://github.com/a1wong/it87/issues/1 "8628"))
 9. now run `sudo sensors-detect` and press enter everytime
 10. `sensors` and `zenmonitor` now should show actual temps and voltage
+* * *
+### To fix noisy cpu fan and random type freezes:
+1. Turn off Core Performance Boost in BIOS
